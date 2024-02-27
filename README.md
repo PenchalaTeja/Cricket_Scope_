@@ -25,6 +25,7 @@ Link Power BI with your SQL database.
 Model the data in Power BI to mirror your schema's relationships and hierarchies.
 Design an exhaustive dashboard with interactive features that offer clear, actionable insights.
 Goals: Performance Analysis: Assess player and team performances over different seasons. Strategic Insights: Discover winning patterns and strategies of successful teams. Player Evaluation: Analyze player impacts under various match conditions. Venue Analysis: Investigate how different venues affect match outcomes. Team Formation: Help the client form five balanced teams based on player data, ensuring competitive fairness.
+
 ![Ipl_Dashboard ](https://github.com/tejaP91/Cricket-Scope-/assets/156883419/d294c0b8-f4ce-4537-aac4-102c618a80be)
 
 
