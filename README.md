@@ -11,6 +11,8 @@ Project Phases
 
 Phase 1: Database Design and Implementation Objective: Design a database schema that accurately represents the data's structure and relationships, and populate it with cleaned data. Craft a normalized relational database schema to encapsulate entities and their interrelations. Implement the schema in MySQL or SQL Server, establish tables, and define relationships. Efficiently import the cleaned data into the database.
 
+ER_DIAGRAM
+
 ![IPL_SCHEMA_](https://github.com/tejaP91/Cricket-Scope-/assets/156883419/25d10b22-7602-4f1f-9257-83d3de119cfb)
 
 Phase 2: Data Wrangling Objective: Prepare the datasets for analysis by cleaning and transforming the data. 
@@ -25,6 +27,8 @@ Link Power BI with your SQL database.
 Model the data in Power BI to mirror your schema's relationships and hierarchies.
 Design an exhaustive dashboard with interactive features that offer clear, actionable insights.
 Goals: Performance Analysis: Assess player and team performances over different seasons. Strategic Insights: Discover winning patterns and strategies of successful teams. Player Evaluation: Analyze player impacts under various match conditions. Venue Analysis: Investigate how different venues affect match outcomes. Team Formation: Help the client form five balanced teams based on player data, ensuring competitive fairness.
+
+DASHBOARD 
 
 ![Ipl_Dashboard ](https://github.com/tejaP91/Cricket-Scope-/assets/156883419/d294c0b8-f4ce-4537-aac4-102c618a80be)
 
