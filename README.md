@@ -30,7 +30,8 @@ Goals: Performance Analysis: Assess player and team performances over different 
 
 DASHBOARD 
 
-![Ipl_Dashboard ](https://github.com/tejaP91/Cricket-Scope-/assets/156883419/d294c0b8-f4ce-4537-aac4-102c618a80be)
+![image](https://github.com/PenchalaTeja/Cricket_Scope_/assets/156883419/d7467c16-1218-4b9c-959b-650c2e57ebf8)
+
 
 
 Conclusion: This project presents a unique chance to harness data analytics in the sports realm, especially cricket. By revealing concealed patterns and insights from the comprehensive dataset provided by our client, we aim to deliver strategic intelligence that can profoundly influence our client's decision-making processes, including the strategic creation of balanced teams to promote a competitive and thrilling cricket atmosphere.
