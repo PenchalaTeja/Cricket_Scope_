@@ -16,19 +16,25 @@ Designing and implementing a relational database schema for efficient data stora
 
 ### Project Phases
 
-Phase 1: Database Design and Implementation Objective: Design a database schema that accurately represents the data's structure and relationships, and populate it with cleaned data. Craft a normalized relational database schema to encapsulate entities and their interrelations. Implement the schema in MySQL or SQL Server, establish tables, and define relationships. Efficiently import the cleaned data into the database.
+#### Phase 1: Database Design and Implementation 
+##### Objective: 
+Design a database schema that accurately represents the data's structure and relationships, and populate it with cleaned data. Craft a normalized relational database schema to encapsulate entities and their interrelations. Implement the schema in MySQL or SQL Server, establish tables, and define relationships. Efficiently import the cleaned data into the database.
 
 #### ER_DIAGRAM
 
 ![IPL_SCHEMA_](https://github.com/tejaP91/Cricket-Scope-/assets/156883419/25d10b22-7602-4f1f-9257-83d3de119cfb)
 
-Phase 2: Data Wrangling Objective: Prepare the datasets for analysis by cleaning and transforming the data. 
+#### Phase 2: Data Wrangling 
+##### Objective: 
+Prepare the datasets for analysis by cleaning and transforming the data. 
 Tasks:
-Evaluate data quality, pinpoint missing values, and identify outliers.
-Execute data cleaning to ensure data accuracy and consistency.
-Merge data from various CSV files to achieve a unified structure for analysis.
+-Evaluate data quality, pinpoint missing values, and identify outliers.
+-Execute data cleaning to ensure data accuracy and consistency.
+-Merge data from various CSV files to achieve a unified structure for analysis.
 
-Phase 3: Data Visualization and Dashboard Creation Objective: Develop a dynamic and interactive dashboard in Power BI to visually represent the data, emphasizing critical insights and trends. 
+#### Phase 3: Data Visualization and Dashboard Creation 
+##### Objective: 
+Develop a dynamic and interactive dashboard in Power BI to visually represent the data, emphasizing critical insights and trends. 
 Tasks:
 Link Power BI with your SQL database.
 Model the data in Power BI to mirror your schema's relationships and hierarchies.
